@@ -1,0 +1,4 @@
+[debug] [toofoo-build-build] Classpath dependencies List()
+[debug] [toofoo-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'toofoo-build-build' to '/home/iogre/projects/toofoo/project/project/.bloop/toofoo-build-build.json'
+[success] Generated .bloop/toofoo-build-build.json
